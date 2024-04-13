@@ -1,8 +1,6 @@
 import Product from "./Product"
-import items from "../assets/data.js"
 
 function Products({items}) {
-console.log(items);
 
 
   return (
